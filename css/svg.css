@@ -1,0 +1,148 @@
+#logo #SVGID_1_ stop:nth-child(1) {
+  animation: color-4 150s infinite ease-in-out;
+  animation-direction: alternate; }
+#logo #SVGID_1_ stop:nth-child(2) {
+  animation: color-5 150s infinite ease-in-out;
+  animation-direction: alternate; }
+#logo #SVGID_2_ stop:nth-child(1) {
+  animation: color-3 150s infinite ease-in-out;
+  animation-direction: alternate; }
+#logo #SVGID_2_ stop:nth-child(2) {
+  animation: color-4 150s infinite ease-in-out;
+  animation-direction: alternate; }
+#logo #SVGID_3_ stop:nth-child(1) {
+  animation: color-2 150s infinite ease-in-out;
+  animation-direction: alternate; }
+#logo #SVGID_3_ stop:nth-child(2) {
+  animation: color-3 150s infinite ease-in-out;
+  animation-direction: alternate; }
+#logo #SVGID_4_ stop:nth-child(1) {
+  animation: color-1 150s infinite ease-in-out;
+  animation-direction: alternate; }
+#logo #SVGID_4_ stop:nth-child(2) {
+  animation: color-2 150s infinite ease-in-out;
+  animation-direction: alternate; }
+#logo #SVGID_5_ stop:nth-child(1) {
+  animation: color-1 150s infinite ease-in-out;
+  animation-direction: alternate; }
+#logo #SVGID_5_ stop:nth-child(2) {
+  animation: color-5 150s infinite ease-in-out;
+  animation-direction: alternate; }
+
+@keyframes color-1 {
+  from {
+    stop-color: #32bdf2; }
+  10% {
+    stop-color: #4a9b09; }
+  20% {
+    stop-color: #ffe465; }
+  30% {
+    stop-color: #ffe465; }
+  40% {
+    stop-color: #ffe465; }
+  50% {
+    stop-color: #f7528e; }
+  60% {
+    stop-color: #9d59a2; }
+  70% {
+    stop-color: #ffe465; }
+  80% {
+    stop-color: #f7528e; }
+  90% {
+    stop-color: #32bdf2; }
+  to {
+    stop-color: #f7528e; } }
+@keyframes color-2 {
+  from {
+    stop-color: #689dc7; }
+  10% {
+    stop-color: #7aa361; }
+  20% {
+    stop-color: #ebb67a; }
+  30% {
+    stop-color: #c6d18b; }
+  40% {
+    stop-color: #d9b17e; }
+  50% {
+    stop-color: #db7687; }
+  60% {
+    stop-color: #a76d93; }
+  70% {
+    stop-color: #c7c868; }
+  80% {
+    stop-color: #b0749c; }
+  90% {
+    stop-color: #6bb9c6; }
+  to {
+    stop-color: #c65f91; } }
+@keyframes color-3 {
+  from {
+    stop-color: #8a86ae; }
+  10% {
+    stop-color: #9bb264; }
+  20% {
+    stop-color: #e29580; }
+  30% {
+    stop-color: #95c2a7; }
+  40% {
+    stop-color: #bd8888; }
+  50% {
+    stop-color: #e19081; }
+  60% {
+    stop-color: #bc8888; }
+  70% {
+    stop-color: #99b163; }
+  80% {
+    stop-color: #8788af; }
+  90% {
+    stop-color: #93c2a8; }
+  to {
+    stop-color: #b65d95; } }
+@keyframes color-4 {
+  from {
+    stop-color: #ab769e; }
+  10% {
+    stop-color: #c5c667; }
+  20% {
+    stop-color: #da7488; }
+  30% {
+    stop-color: #6fbac2; }
+  40% {
+    stop-color: #a96f92; }
+  50% {
+    stop-color: #ebb47a; }
+  60% {
+    stop-color: #d7ae7f; }
+  70% {
+    stop-color: #77a261; }
+  80% {
+    stop-color: #689dc7; }
+  90% {
+    stop-color: #c2d08d; }
+  to {
+    stop-color: #a65c98; } }
+@keyframes color-5 {
+  from {
+    stop-color: #f7528e; }
+  10% {
+    stop-color: #ffe465; }
+  20% {
+    stop-color: #f7528e; }
+  30% {
+    stop-color: #32bdf2; }
+  40% {
+    stop-color: #9d59a2; }
+  50% {
+    stop-color: #ffe465; }
+  60% {
+    stop-color: #ffe465; }
+  70% {
+    stop-color: #4a9b09; }
+  80% {
+    stop-color: #32bdf2; }
+  90% {
+    stop-color: #ffe465; }
+  to {
+    stop-color: #9d59a2; } }
+
+/*# sourceMappingURL=svg.css.map */
